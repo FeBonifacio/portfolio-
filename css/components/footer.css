@@ -1,0 +1,27 @@
+footer {
+    background-color: #242020;
+}
+footer .footer-content {
+    text-align: center;
+    padding: 6rem 2rem 1rem;
+    max-width: 47rem;
+    color: white;
+}
+footer .footer-content h2 {
+    color: white;
+}
+footer .footer-content .footer-contact span{
+    display: block;
+    font-weight: 600;
+}
+footer .footer-content ul li {
+    display: inline-block;
+    padding: 1rem;
+}
+footer .footer-content ul a {
+    display: inline-block;
+    display: 1rem;
+}
+.footer-copyright {
+    font-size: 1.4rem;
+}
